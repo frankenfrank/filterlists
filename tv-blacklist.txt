@@ -1,4 +1,3 @@
-#SAMSUNG-TV
 samsungads.com
 acr0.samsungcloudsolution.com
 lcprd1.samsungcloudsolution.net
@@ -7,3 +6,9 @@ upu.samsungelectronics.com
 log-ingestion-eu.samsungacr.com
 osb-apps.samsungqbe.com
 stats.hbbtv.smartclip.net
+samsungadhub.com
+smetrics.samsung.com
+nmetrics.samsung.com
+business.samsungusa.com
+analytics.samsungknox.com
+bigdata.ssp.samsung.com

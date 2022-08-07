@@ -1,5 +1,12 @@
 doubleclick.net
+ad..doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
 fastclick.com
+fastclick.net
+media.fastclick.net
+cdn.fastclick.net
 media.net
 adtago.s3.amazonaws.com
 advice-ads.s3.amazonaws.com

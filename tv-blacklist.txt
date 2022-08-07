@@ -7,4 +7,3 @@ upu.samsungelectronics.com
 log-ingestion-eu.samsungacr.com
 osb-apps.samsungqbe.com
 stats.hbbtv.smartclip.net
-ytimg.com

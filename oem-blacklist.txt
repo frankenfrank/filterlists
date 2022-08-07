@@ -12,3 +12,9 @@ nmetrics.samsung.com
 business.samsungusa.com
 analytics.samsungknox.com
 bigdata.ssp.samsung.com
+samsung-com.112.2o7.net
+analytics-api.samsunghealthcn.com
+analytics.oneplus.cn
+click.oneplus.cn
+click.oneplus.com
+open.oneplus.net

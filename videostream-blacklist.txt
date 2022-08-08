@@ -1,4 +1,13 @@
 googlevideo.com
+goo.gl
+googleadservices.com
+googlesyndication.com
+googletagmanager.com
+youtu.be
+youtube.com
+youtube-nocookie.com
+ytimg.com
+ggpht.com
 0.0.0.0 googlevideo.com
 0.0.0.0 goo.gl
 0.0.0.0 googleadservices.com

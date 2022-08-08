@@ -1,4 +1,4 @@
-googlevideo.com
+0.0.0.0 googlevideo.com
 .googlevideo.com
 goo.gl
 googleadservices.com

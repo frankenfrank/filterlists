@@ -1,13 +1,6 @@
 # Social-Tracker Blacklict for Piehole
 # URL: https://github.com/frankenfrank/filterlists/raw/main/social-trackers.txt
 
-#Google
-pagead2.googlesyndication.com
-ads.google.com
-adservice.google.com
-pagead2.googleadservices.com
-googleadservices.com
-
 #Facebook
 0.0.0.0 pixel.facebook.com
 0.0.0.0 analytics.facebook.com

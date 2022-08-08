@@ -1,3 +1,4 @@
+*.youtbue.com
 googlevideo.com
 googlevideos.com
 goo.gl
@@ -6,6 +7,7 @@ googlesyndication.com
 googletagmanager.com
 youtu.be
 youtube.com
+m.youtube.com
 youtube-nocookie.com
 ytimg.com
 ggpht.com

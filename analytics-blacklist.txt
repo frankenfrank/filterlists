@@ -1,3 +1,5 @@
+google-analytics.com
+ssl.google-analytics.com
 hotjar.com
 api-hotjar.com
 hotjar-analytics.com

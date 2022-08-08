@@ -1,4 +1,5 @@
 googlevideo.com
+googlevideos.com
 goo.gl
 googleadservices.com
 googlesyndication.com
@@ -8,13 +9,3 @@ youtube.com
 youtube-nocookie.com
 ytimg.com
 ggpht.com
-0.0.0.0 googlevideo.com
-0.0.0.0 goo.gl
-0.0.0.0 googleadservices.com
-0.0.0.0 googlesyndication.com
-0.0.0.0 googletagmanager.com
-0.0.0.0 youtu.be
-0.0.0.0 youtube.com
-0.0.0.0 youtube-nocookie.com
-0.0.0.0 ytimg.com
-0.0.0.0 ggpht.com

@@ -1,5 +1,7 @@
+hotjar.com
 api-hotjar.com
 hotjar-analytics.com
+static.hotjar.com
 mouseflow.com
 a.mouseflow.com
 freshmarketer.com

@@ -10,8 +10,11 @@ an.facebook.com
 ads-twitter.com
 ads-api.twitter.com
 advertising.twitter.com
+static.ads-twitter.com
 #Pinterest
+ads.pinterest.com
 log.pinterest.com
+ads-dev.pinterest.com
 ads-dev.pinterest.com
 analytics.pinterest.com
 trk.pinterest.com

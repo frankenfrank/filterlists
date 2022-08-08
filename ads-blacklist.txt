@@ -1,6 +1,14 @@
 # Ad-Blocklist für PiHole
 # Link: https://github.com/frankenfrank/filterlists/raw/main/ads-blacklist.txt
 
+#Google
+pagead2.googlesyndication.com
+ads.google.com
+adservice.google.com
+pagead2.googleadservices.com
+googleadservices.com
+
+
 0.0.0.0 doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 static.doubleclick.net

@@ -1,5 +1,6 @@
 #VideoStream-Blocklist
-# URL:
+# URL: https://raw.githubusercontent.com/frankenfrank/filterlists/main/videostream-blacklist.txt
+
 #Youtube
 googlevideo.com
 googlevideos.com

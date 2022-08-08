@@ -1,5 +1,5 @@
 #OEM-Blocklist fpr Piehole
-#URL: 
+#URL: https://github.com/frankenfrank/filterlists/raw/main/oem-blacklist.txt
 
 #Samsung
 samsungads.com

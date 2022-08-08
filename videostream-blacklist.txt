@@ -1,4 +1,3 @@
-*.youtbue.com
 googlevideo.com
 googlevideos.com
 goo.gl

@@ -1,6 +1,5 @@
 # Ad-Blocklist für PiHole
-# Link: 
-
+# Link: https://github.com/frankenfrank/filterlists/raw/main/ads-blacklist.txt
 
 0.0.0.0 doubleclick.net
 0.0.0.0 ad.doubleclick.net

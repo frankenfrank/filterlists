@@ -1,18 +1,22 @@
-doubleclick.net
-ad..doubleclick.net
-static.doubleclick.net
-m.doubleclick.net
-mediavisor.doubleclick.net
-fastclick.com
-fastclick.net
-media.fastclick.net
-cdn.fastclick.net
-media.net
-adtago.s3.amazonaws.com
-advice-ads.s3.amazonaws.com
-analyticsengine.s3.amazonaws.com
-affiliationjs.s3.amazonaws.com
-advertising-api-eu.amazon.com
-amazonclix.com
-assoc.amazon.com
-firebase-settings.crashlytics.com
+# Ad-Blocklist für PiHole
+# Link: 
+
+
+0.0.0.0 doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 fastclick.com
+0.0.0.0 fastclick.net
+0.0.0.0 media.fastclick.net
+0.0.0.0 cdn.fastclick.net
+0.0.0.0 media.net
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 amazonclix.com
+0.0.0.0 assoc.amazon.com
+0.0.0.0 firebase-settings.crashlytics.com

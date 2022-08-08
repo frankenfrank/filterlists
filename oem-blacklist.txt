@@ -1,4 +1,9 @@
+#OEM-Blocklist fpr Piehole
+#URL: 
+
+#Samsung
 samsungads.com
+config.samsungads.com
 acr0.samsungcloudsolution.com
 lcprd1.samsungcloudsolution.net
 xpu.samsungelectronics.com
@@ -14,6 +19,7 @@ analytics.samsungknox.com
 bigdata.ssp.samsung.com
 samsung-com.112.2o7.net
 analytics-api.samsunghealthcn.com
+#OnePlus
 analytics.oneplus.cn
 click.oneplus.cn
 click.oneplus.com

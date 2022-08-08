@@ -8,7 +8,7 @@ freshmarketer.com
 luckyorange.com
 cdn.luckyorange.com
 w1.luckyorange.com
-upload.luckyorange.com
-cs.luckyorange.com
-settings.luckyorange.com
+upload.luckyorange.net
+cs.luckyorange.net
+settings.luckyorange.net
 stats.wp.com

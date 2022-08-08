@@ -1,18 +1,27 @@
-pixel.facebook.com
-analytics.facebook.com
-ads.facebook.com
-an.facebook.com
-ads-twitter.com
-ads-api.twitter.com
-advertising.twitter.com
-widgets.pinterest.com
-ads.reddit.com
-d.reddit.com
-reredit.com
-events.reditmedia.com
-analytics.tiktok.com
-ads.tiktok.com
-analytics-sg.tiktok.com
-ads-sg.tiktok.com
-ads.youtube.com
-youtube.cleverads.vn
+# Social-Tracker Blacklict for Piehole
+# URL: https://github.com/frankenfrank/filterlists/raw/main/social-trackers.txt
+
+#Facebook
+0.0.0.0 pixel.facebook.com
+0.0.0.0 analytics.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 an.facebook.com
+#Twitter
+0.0.0.0 ads-twitter.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 advertising.twitter.com
+#Pinterest
+0.0.0.0 widgets.pinterest.com
+#Reddit
+0.0.0.0 ads.reddit.com
+0.0.0.0 d.reddit.com
+0.0.0.0 reredit.com
+0.0.0.0 events.reditmedia.com
+#TikTok
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+#Youtube
+0.0.0.0 ads.youtube.com
+0.0.0.0 youtube.cleverads.vn

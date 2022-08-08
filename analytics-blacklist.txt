@@ -1,0 +1,12 @@
+api-hotjar.com
+hotjar-analytics.com
+mouseflow.com
+a.mouseflow.com
+freshmarketer.com
+luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+upload.luckyorange.com
+cs.luckyorange.com
+settings.luckyorange.com
+stats.wp.com

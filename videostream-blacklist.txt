@@ -1,3 +1,6 @@
+#VideoStream-Blocklist
+# URL:
+#Youtube
 googlevideo.com
 googlevideos.com
 goo.gl
